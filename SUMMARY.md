@@ -1,4 +1,4 @@
 # Summary
 
-* [Chapter 1](chatper-1/README.md)
+* [Chapter 1](chapter-1/README.md)
     * [Writing is nice](chapter-1/step1.md)
